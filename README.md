@@ -1,0 +1,2 @@
+# Document-Retrieval
+This repository consists of code which does the wikipedia document retrieval i.e. calculate the similarity between the documents of different people and predicts the similarity between documents of different people. Let say we want to test the document on 'Barack Obama' this model will predict the documents of other politician available in the data which can help in recommending a document to a user reading online an article
